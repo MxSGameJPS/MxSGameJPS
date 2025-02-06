@@ -29,8 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-
-### 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([[www.linkedin.com/in/saulopavanello](https://www.linkedin.com/in/saulopavanello/)])  
-[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)]([https://seu-portfolio.com/])  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mxsgamejps/)
+## 🌎 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/saulopavanello/))  
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://seu-portfolio.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram/)
