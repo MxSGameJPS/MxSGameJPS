@@ -3,8 +3,11 @@
 ## 💻 Sobre mim
 
 🎨 Ex-UI Designer, agora me dedicando ao desenvolvimento web e mobile.
+
 📍 Atualmente morando em Dois Irmãos - RS, Brasil.
+
 🚀 Buscando oportunidades no mercado europeu, especialmente em Portugal.
+
 🎯 Foco em tecnologias modernas e soluções eficientes para web e mobile.
 
 ## 🚀 Tecnologias e Ferramentas
