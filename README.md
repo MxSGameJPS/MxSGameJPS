@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulopavanello/)  
-[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://github.com/MxSGameJPS)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mxsgamejps/)  
+## 🌎 Conecte-se comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulopavanello/) 
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://github.com/MxSGameJPS) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mxsgamejps/)
