@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Saulo Phavanello!
+# 👋 Olá, eu sou o Saulo Pavanello!
 
 ## 💻 Sobre mim
 
