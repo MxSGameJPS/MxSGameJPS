@@ -20,6 +20,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFBk)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🔹 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,5 +36,5 @@
 
 ## 🌎 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulopavanello/) 
-[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://github.com/MxSGameJPS) 
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://mxsmarketing.digital)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mxsgamejps/)
