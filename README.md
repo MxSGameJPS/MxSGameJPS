@@ -38,6 +38,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
+<div align="center">
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MxSGameJPS&theme=transparent&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
 ### 🔹 Ferramentas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
