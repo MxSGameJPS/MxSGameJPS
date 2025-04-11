@@ -1,4 +1,14 @@
+<div align="center">
+  
 # 👋 Olá, eu sou o Saulo Pavanello!
+
+</div> 
+
+<div align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=900&height=60&lines=Hello%2C+my+name+is+Saulo+Pavanello.;I'm+a+Front-End+Developer.;+Welcome+to+my+profile!)](https://git.io/typing-svg)
+ 
+</div>
 
 ## 💻 Sobre mim
 
