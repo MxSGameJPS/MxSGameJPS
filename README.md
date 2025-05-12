@@ -66,12 +66,6 @@
 
 ###
 
-<div align="center">
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MxSGameJPS&theme=transparent&card_width=900)](https://github.com/MxSGameJPS)
-
-</div>
-
 <br clear="both">
 
 <div align = "center">
