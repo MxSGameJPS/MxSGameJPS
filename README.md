@@ -69,7 +69,7 @@
 
 ### 📊 Minha Telemetria
 
-<img src="https://raw.githubusercontent.com/SauloPavanello/SauloPavanello/main/telemetry.svg" width="850">
+<img src="https://raw.githubusercontent.com/MxSGameJPS/MxSGameJPS/main/telemetry.svg" width="850">
 
 </div>
 
