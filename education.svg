@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280">
+  <defs>
+    <style>
+      .star-bg { animation: twinkle-slow 7s ease-in-out infinite; }
+      @keyframes twinkle-slow { 0%, 100% { opacity: 0.08; } 50% { opacity: 0.3; } }
+      .core-ring { animation: pulse-core 3s ease-in-out infinite; }
+      @keyframes pulse-core { 
+        0%, 100% { stroke-opacity: 0.3; transform: scale(1); transform-origin: 425px 155px; } 
+        50% { stroke-opacity: 0.8; transform: scale(1.06); transform-origin: 425px 155px; } 
+      }
+    </style>
+    <filter id="nebula-outer"><feGaussianBlur stdDeviation="60"/></filter>
+    <radialGradient id="core-haze-gradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3683FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3683FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="850" height="280" rx="12" ry="12" fill="#080c14"/>
+  <circle cx="425" cy="195" r="140" fill="#3683FF" opacity="0.02" filter="url(#nebula-outer)"/>
+
+  <circle cx="425" cy="155" r="40" fill="url(#core-haze-gradient)" opacity="0.4"/>
+  <ellipse cx="425" cy="155" rx="20" ry="18" fill="none" stroke="#3683FF" stroke-width="1.2" opacity="0.55" class="core-ring"/>
+  <circle cx="425" cy="155" r="11" fill="#0f1623" stroke="#1a2332" stroke-width="0.5"/>
+  <text x="425" y="160" text-anchor="middle" fill="#3683FF" font-size="14" font-weight="bold" font-family="monospace">SP</text>
+
+  <circle cx="330" cy="100" r="3" fill="#61DAFB"/>
+  <text x="325" y="95" text-anchor="end" fill="#61DAFB" font-size="10" font-family="monospace">React Pro</text>
+  
+  <circle cx="520" cy="120" r="3" fill="#ffffff"/>
+  <text x="525" y="115" text-anchor="start" fill="#ffffff" font-size="10" font-family="monospace">Next.js</text>
+
+  <circle cx="390" cy="210" r="3" fill="#339933"/>
+  <text x="385" y="225" text-anchor="end" fill="#339933" font-size="10" font-family="monospace">Node/Express</text>
+
+  <circle cx="515" cy="180" r="3" fill="#2D3748"/>
+  <text x="525" y="185" text-anchor="start" fill="#2D3748" font-size="10" font-family="monospace">Prisma/ORM</text>
+
+  <text x="425" y="35" text-anchor="middle" fill="#f1f5f9" font-size="22" font-weight="bold" font-family="sans-serif">Saulo Pavanello</text>
+  <text x="425" y="55" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="sans-serif">Software Engineering Student @ Anhanguera</text>
+  <text x="425" y="265" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">Instrutor Udemy: Formando novos desenvolvedores com React Pro.</text>
+</svg>
